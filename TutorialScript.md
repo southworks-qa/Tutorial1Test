@@ -1,5 +1,7 @@
 # Tutorial: Hello Windows Azure #
 
+Test Changeset 
+
 In the next 5 minutes we will build, debug, and deploy a simple “Hello World” ASP.NET Application using Windows Azure. I want to show you a simple demo, so you can get a feel for the concepts and steps involved with building a Windows Azure application using the Windows Azure SDK and Visual Studio Tools. In later demos you will see how we can build more complex applications that utilize additional roles, the Windows Azure APIs, and Windows Azure Storage services as well as additional services of Azure Services. 
 
 <a id="goals" />
