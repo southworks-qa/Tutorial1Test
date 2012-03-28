@@ -7,6 +7,6 @@
   <Description>In this tutorial, you will explore the basic elements of a Windows Azure service by creating a simple GuestBook application that demonstrates many features of Windows Azure, including web and worker roles, blob storage, table storage, and queues.</Description>
   <Document ConversionType="Html">TutorialScript.md</Document>
   <Title>Goodbye Windows Azure</Title>
-  <Version>1.0</Version>
+  <Version>1.1</Version>
   <Source>Source</Source>
 </Tutorial>
